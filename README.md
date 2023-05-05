@@ -1,4 +1,5 @@
 # PoleClock
+![Pole Clock Image](https://github.com/nanamgo/PoleClock/blob/main/poleclock.png)
 ## overview
 A simple pole clock game object for Unity.<br>
 You can change the dial and hands of the clock to your favorite design by replacing the sprites.<br>
